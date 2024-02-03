@@ -1,4 +1,4 @@
-
+#**Real-time Hand Detection and Recognition using MediaPipe and OpenCV**
 
 - **Objective**: The project aims to detect and recognize hands in real-time using the MediaPipe library in Python.
 
