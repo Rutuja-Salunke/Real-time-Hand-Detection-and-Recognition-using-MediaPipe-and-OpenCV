@@ -35,7 +35,8 @@
 - **Window Handling**:
   - The `cv2.imshow` method is used to display the video feed.
   - The program exits when the user presses 'q', releasing the camera and closing the OpenCV window.
-**Conclusion:**
+
+- **Conclusion:**
 
 This project successfully demonstrates real-time hand detection and recognition using the MediaPipe library and OpenCV. The combination of these powerful tools allows for the efficient processing of video frames from a webcam, providing information about the presence and classification of hands in the feed. The key takeaways from this project include:
 
